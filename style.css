@@ -38,5 +38,11 @@ li:hover{
 box-shadow:3px 3px 3px 3px #49311a;
 
 }
+.capyvideo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
 
 

@@ -33,4 +33,10 @@ background-clip: text;
 -webkit-text-fill-color: transparent;
 } 
 
+li:hover{
+
+box-shadow:3pc 3px 3px 3px #49311a;
+
+}
+
 

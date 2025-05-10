@@ -8,7 +8,8 @@ body {
 
 
     width:70px;
-}
+}yyout
+
 nav{
     display: flex;
     justify-content: space-evenly;
@@ -35,7 +36,7 @@ background-clip: text;
 
 li:hover{
 
-box-shadow:3px 3px 3px 3px #49311a;
+box-shadow:3px 3px 3px 3px #ffffff;
 
 }
 .capyvideo{

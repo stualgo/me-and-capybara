@@ -5,10 +5,8 @@ body {
 }
 
 .link-header img {
-
-
     width:70px;
-}yyout
+}
 
 nav{
     display: flex;
@@ -24,7 +22,7 @@ h1{
 
     display:flex;
     flex-wrap: wrap;
-   hieght:100px;
+   height:100px;
 
 }
 p{
